@@ -13,6 +13,8 @@ Wymagane jest wybranie conajmniej jednego partnera przed zaakceptowaniem zgody.
 Odrzucenie zgody przenosi na stronę google.com
 Główny content strony ma zablokowany scroll oraz jest mocno wyblurowany, odblokowuje się to po zaakceptowaniu zgody.
 
+Zgodnie z instrukcją nie stosowałem żadnych dodatkowych bibliotek, czy frameworków, tylko czysty JS, CSS i HTML.
+
 W razie czego, narzędzie + dummy strona html zostały umieszczone na github pages, więc można łatwiej sprawdzić aplikację.
 
 https://exodus156.github.io/optAd360_zadanie/
